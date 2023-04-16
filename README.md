@@ -36,7 +36,7 @@ function montaTr(paciente) {
 - CSS custom properties;
 - JavaScript;
 
-## Test the project yourself: [Teste the project here!!!](https://grid-testimonials-one.vercel.app/)
+## Test the project yourself: [Teste the project here!!!](https://manipulating-dom.vercel.app/)
 
 ### You can:
 
